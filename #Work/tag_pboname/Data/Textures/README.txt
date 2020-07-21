@@ -1,0 +1,1 @@
+This is where your textures(.PAA's) will be located.

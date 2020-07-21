@@ -1,0 +1,1 @@
+This is where your public key(.bikey) will be located.
